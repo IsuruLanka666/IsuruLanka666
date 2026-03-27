@@ -18,7 +18,7 @@
 | 🌍 **Location** | Sri Lanka 🇱🇰 |
 | 📧 **Contact** | isurulklanka@gmail.com |
 
-## 🚀 Current Learning Focus
+## 🚀 My Learning Focus
 ```
 Basic Cyber Security Concepts & Fundamentals
 Ethical Hacking Basics
@@ -27,7 +27,7 @@ Network Programming
 Secure Web Development
 ```
 
-## 🛠️ Languages & Tools
+## 🛠️ Languages & Tools I used
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,vscode,python,html,css,ubuntu,github,linux,cpp,spring,r" />
@@ -37,7 +37,7 @@ Secure Web Development
   <img src="https://img.shields.io/badge/Nmap-0E83CD?style=for-the-badge&logo=nmap&logoColor=white" />
 </p>
 
-## 📊 GitHub Stats
+## 📊 Statistics of GitHub
 
 <p align="center">
   <img src="https://github-stats-alpha.vercel.app/api?username=IsuruLanka666&theme=light&cc=ffffff&tc=000000&ic=ff6b35&pr=true" />
