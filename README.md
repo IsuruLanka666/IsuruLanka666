@@ -8,14 +8,15 @@
 
 ## 🧑‍💻 About Me
 
-🎓 Education -> Cyber Security UG — FoC, SLIIT
-🔭 Current Focus -> Network Security & Cyber Defense
-🛠️ Tools I Use -> Kali Linux, Wireshark, Nmap 
-🐍 Languages -> Python, Java, Bash, C++
-🏆 Certifications -> Working toward CEH & CompTIA Security+ 
-🌍 Location -> Sri Lanka |
-📧 Contact -> isurulklanka@gmail.com
-
+| 🏷️ | |
+|---|---|
+| 🎓 **Education** | Cyber Security UG — SLIIT, FoC |
+| 🔭 **Current Focus** | Network Security & Cyber Defense |
+| 🛠️ **Tools I Use** | Kali Linux, Burp Suite, Wireshark, Nmap |
+| 🐍 **Languages** | Python, Java, Bash, C++ |
+| 🏆 **Certifications** | Working toward CEH & CompTIA Security+ |
+| 🌍 **Location** | Sri Lanka 🇱🇰 |
+| 📧 **Contact** | isurulklanka@gmail.com |
 <!--
 **IsuruLanka666/IsuruLanka666** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
