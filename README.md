@@ -37,10 +37,11 @@ Secure Web Development
   <img src="https://img.shields.io/badge/Nmap-0E83CD?style=for-the-badge&logo=nmap&logoColor=white" />
 </p>
 
-## 📊 Statistics
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-stats-alpha.vercel.app/api?username=IsuruLanka666&theme=dark" />
+  <img width="48%" src="https://github-stats-alpha.vercel.app/api?username=IsuruLanka666&theme=dark" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=IsuruLanka666&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true" />
 </p>
 <!--
 **IsuruLanka666/IsuruLanka666** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
