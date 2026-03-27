@@ -17,6 +17,22 @@
 | 🏆 **Certifications** | Working toward CEH & CompTIA Security+ |
 | 🌍 **Location** | Sri Lanka 🇱🇰 |
 | 📧 **Contact** | isurulklanka@gmail.com |
+
+## 🚀 Current Learning Focus
+```
+Basic Cyber Security Concepts & Fundamentals
+Ethical Hacking Basics
+Python Security Automation
+Network Programming
+Secure Web Development
+```
+
+## 🛠️ Languages & Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,vscode,python,html,css,ubuntu,github,linux,nmap" />
+</p>
+
 <!--
 **IsuruLanka666/IsuruLanka666** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
