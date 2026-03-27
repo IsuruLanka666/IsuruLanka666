@@ -3,7 +3,7 @@
 <h3 align="center"> Cyber Security UG | FoC | SLIIT</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=00FF00&size=22&center=true&vCenter=true&lines=Cyber+Security+Student;Ethical+Hacker+in+Progress;Web+Security+Enthusiast" />
+ [![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&weight=600&size=30&duration=2000&pause=1000&color=1CE85B&width=435&lines=Future+Cyber+Security+Analyst;Cyber+Security+UG;Network+Security+Learner;Ethical+Hacking+Learner)](https://git.io/typing-svg)
     </p>
 
 <!--
