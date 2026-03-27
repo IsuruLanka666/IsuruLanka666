@@ -3,9 +3,9 @@
 <h3 align="center"> Cyber Security UG | FoC | SLIIT</h3>
 
 <p align="center">
-    <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.demolab.com/demo/?font=Roboto&weight=600&size=30&duration=2000&color=1CE85B&center=true&vCenter=true&lines=Future+Cyber+Security+Analyst;Cyber+Security+UG;Network+Security+Learner;Ethical+Hacking+Learner" />
-    </a>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/demo/?font=Roboto&weight=600&size=30&duration=2000&color=1CE85B&center=true&vCenter=true&lines=Future+Cyber+Security+Analyst;Cyber+Security+UG;Network+Security+Learner;Ethical+Hacking+Learner" />
+  </a>
 </p>
 
 <!--
