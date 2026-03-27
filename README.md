@@ -37,10 +37,10 @@ Secure Web Development
   <img src="https://img.shields.io/badge/Nmap-0E83CD?style=for-the-badge&logo=nmap&logoColor=white" />
 </p>
 
-## 📊 GitHub Stats
+## 📊 Statistics
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=IsuruLanka666&show_icons=true&theme=dark&hide_border=true&count_private=true" />
+  <img width="48%" src="https://gh-readme-stats.deno.dev/api?username=YOUR_USERNAME&show_icons=true&theme=dark&hide_border=true" />
   <img width="48%" src="https://streak-stats.demolab.com?user=IsuruLanka666&theme=dark&hide_border=true" />
 </p>
 <!--
