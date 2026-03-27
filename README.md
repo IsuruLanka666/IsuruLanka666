@@ -30,7 +30,11 @@ Secure Web Development
 ## 🛠️ Languages & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,vscode,python,html,css,ubuntu,github,linux,cpp,Nmap" />
+  <img src="https://skillicons.dev/icons?i=java,vscode,python,html,css,ubuntu,github,linux,cpp,spring,r" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Nmap-0E83CD?style=for-the-badge&logo=nmap&logoColor=white" />
 </p>
 
 <!--
