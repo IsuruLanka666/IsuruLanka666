@@ -1,4 +1,10 @@
 ## Hi there 👋
+<h1 align="center">Hi 🙌 I'm Isuru Lankadhikari</h1>
+<h3 align="center"> Cyber Security UG | FoC | SLIIT</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=00FF00&size=22&center=true&vCenter=true&lines=Cyber+Security+Student;Ethical+Hacker+in+Progress;Web+Security+Enthusiast" />
+    </p>
 
 <!--
 **IsuruLanka666/IsuruLanka666** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
