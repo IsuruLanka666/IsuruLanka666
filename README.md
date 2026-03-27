@@ -5,6 +5,17 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=600&size=30&duration=2000&color=1CE85B&center=true&vCenter=true&lines=Future+Cyber+Security+Analyst;Cyber+Security+UG;Network+Security+Learner;Ethical+Hacking+Learner" />
 </p>
+
+## 🧑‍💻 About Me
+
+🎓 Education -> Cyber Security UG — FoC, SLIIT
+🔭 Current Focus -> Network Security & Cyber Defense
+🛠️ Tools I Use -> Kali Linux, Wireshark, Nmap 
+🐍 Languages -> Python, Java, Bash, C++
+🏆 Certifications -> Working toward CEH & CompTIA Security+ 
+🌍 Location -> Sri Lanka |
+📧 Contact -> isurulklanka@gmail.com
+
 <!--
 **IsuruLanka666/IsuruLanka666** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
