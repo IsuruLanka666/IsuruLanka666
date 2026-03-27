@@ -30,7 +30,7 @@ Secure Web Development
 ## 🛠️ Languages & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,vscode,python,html,css,ubuntu,github,linux,nmap" />
+  <img src="https://skillicons.dev/icons?i=java,vscode,python,html,css,ubuntu,github,linux,cpp,Nmap" />
 </p>
 
 <!--
