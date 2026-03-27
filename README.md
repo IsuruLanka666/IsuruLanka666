@@ -40,10 +40,9 @@ Secure Web Development
 ## 📊 Statistics
 
 <p align="center">
-  <img width="48%" src="https://github-stats-alpha.vercel.app/api?username=ISuruLanka666&theme=dark" />
-  <img width="48%" src="https://streak-stats.demolab.com?user=IsuruLanka666&theme=dark&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=IsuruLanka666&show_icons=true&theme=dark&hide_border=true&count_private=true&title_color=00FF00&icon_color=00FF00&text_color=00FF00" />
+  <img width="48%" src="https://streak-stats.demolab.com?user=IsuruLanka666&theme=dark&hide_border=true&ring=00FF00&fire=00FF00&currStreakLabel=00FF00&currStreakNum=00FF00" />
 </p>
-
 <!--
 **IsuruLanka666/IsuruLanka666** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
